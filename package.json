@@ -1,0 +1,16 @@
+{
+  "name": "test_nodejs",
+  "version": "1.0.0",
+  "description": "A mf testing of the nodejs setting up",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "RANDY ROJAS",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
